@@ -14,9 +14,4 @@ Hi I'm Charles a Computer Science Student at University of the Philippines Minda
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=oreocapybara&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/oreodoescode) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
