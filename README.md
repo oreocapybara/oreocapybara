@@ -3,12 +3,8 @@
 </div>
 
 ###
-
 <p data-importer="text" align="center">Computer Science Student @ University of the Philippines Mindanao.<br>I'm a UI/UX Generalist, Front-end Developer, Back-end Developer, Fullstack Developer, and a ML and Gen AI enthusiast.</p>
-
 ###
-
-<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oreocapybara/oreocapybara/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -51,8 +47,6 @@
 <h1 data-importer="text" align="center">Tech Stack</h1>
 
 ###
-
-<br clear="both">
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
@@ -135,7 +129,7 @@
 </div>
 
 ###
-
+<h5 data-importer="text" align="center">Connect</h5>
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/charles-espiloy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
