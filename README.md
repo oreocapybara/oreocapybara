@@ -10,18 +10,18 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oreocapybara/oreocapybara/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<h1 data-importer="text" align="center">Pinned Repos</h1>
+<h1 data-importer="text" align="center">Projects</h1>
 
 <p align="center">
   <!-- Row 1: Wide + Narrow -->
-  <a href="https://github.com/oreocapybara/cat-a-log"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=cat-a-log&description_lines_count=1&show_icons=true&theme=tokyonight&border_color=8a5b92" width="58%" /></a>
+  <a href="https://github.com/oreocapybara/cat-a-log"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=cat-a-log&description_lines_count=3&show_icons=true&theme=tokyonight&border_color=8a5b92" width="58%" /></a>
   <a href="https://github.com/oreocapybara/gabai-upmin"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=gabai-upmin&description_lines_count=1&show_icons=true&theme=tokyonight&border_color=8769a6" width="38%" /></a>
   <!-- Row 2: Narrow + Wide -->
-  <a href="https://github.com/oreocapybara/gnome-native-screenshot-ui-ocr-extended"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=gnome-native-screenshot-ui-ocr-extended&description_lines_count=1&show_icons=true&theme=tokyonight&border_color=8477ba" width="38%" /></a>
-  <a href="https://github.com/oreocapybara/rock-paper-scissors"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=rock-paper-scissors&description_lines_count=1&show_icons=true&theme=tokyonight&border_color=8186cf" width="58%" /></a>
+  <a href="https://github.com/oreocapybara/gnome-native-screenshot-ui-ocr-extended"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=gnome-native-screenshot-ui-ocr-extended&description_lines_count=2&show_icons=true&theme=tokyonight&border_color=8477ba" width="38%" /></a>
+  <a href="https://github.com/oreocapybara/rock-paper-scissors"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=rock-paper-scissors&description_lines_count=2&show_icons=true&theme=tokyonight&border_color=8186cf&cache_seconds=1800" width="58%" /></a>
   <!-- Row 3: Wide + Narrow -->
   <a href="https://github.com/oreocapybara/be-internship-crud-api"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=be-internship-crud-api&description_lines_count=1&show_icons=true&theme=tokyonight&border_color=7e94e3" width="58%" /></a>
-  <a href="https://github.com/oreocapybara/TOP-repo"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=TOP-repo&description_lines_count=1&show_icons=true&theme=tokyonight&border_color=7aa2f7" width="38%" /></a>
+  <a href="https://github.com/oreocapybara/TOP-repo"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=TOP-repo&description_lines_count=2&show_icons=true&theme=tokyonight&border_color=7aa2f7&cache_seconds=1800" width="38%" /></a>
 </p>
 
 <h1 data-importer="text" align="center">Activity</h1>
