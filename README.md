@@ -32,8 +32,6 @@
 
 ###
 
-<br clear="both">
-
 <h1 data-importer="text" align="center">Tech Stack</h1>
 
 ###
