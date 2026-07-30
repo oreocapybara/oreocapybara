@@ -37,7 +37,7 @@
 <div data-importer="stats" align="center">
   <!-- Row 1: First two images split the row and grow -->
   <img src="https://streak-stats.demolab.com?user=oreocapybara&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5&order=3" width="49%" height="auto" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/oreocapybara/oreocapybara/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" width="49%" height="auto" alt="stats graph" />
+ <img src="https://raw.githubusercontent.com/oreocapybara/oreocapybara/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" width="49%" height="auto" alt="stats graph" />
   
   <br />
   
