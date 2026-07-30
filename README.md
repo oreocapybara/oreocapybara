@@ -1,10 +1,10 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20I'm%20Charles!&fontSize=70&fontColor=FFFFFF&fontAlign=50&f[...]"/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20I'm%20Charles!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
 
-<p data-importer="text" align="center">Computer Science Student @ University of the Philippines Mindanao.<br>I'm a UI/UX Generalist, Front-end Developer, Back-end Developer, Fullstack Developer, and a[...]</p>
+<p data-importer="text" align="center">Computer Science Student @ University of the Philippines Mindanao.<br>I'm a UI/UX Generalist, Front-end Developer, Back-end Developer, Fullstack Developer, and a ML and Gen AI enthusiast.</p>
 
 ###
 
@@ -24,8 +24,8 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=oreocapybara&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/oreocapybara/oreocapybara/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_anima[...]"/>
-  <img src="https://raw.githubusercontent.com/oreocapybara/oreocapybara/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"[...] />
+  <img src="https://raw.githubusercontent.com/oreocapybara/oreocapybara/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/oreocapybara/oreocapybara/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
