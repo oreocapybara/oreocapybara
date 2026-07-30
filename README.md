@@ -18,7 +18,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Activity</h3>
+<h1 data-importer="text" align="center">Activity</h1>
 
 ###
 
@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">Tech Stack</h3>
+<h1 data-importer="text" align="center">Tech Stack</h1>
 
 ###
 
