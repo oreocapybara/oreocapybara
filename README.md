@@ -3,7 +3,7 @@
 </div>
 
 ###
-<p data-importer="text" align="center">Computer Science Student @ University of the Philippines Mindanao.<br>I'm a UI/UX Generalist, Front-end Developer, Back-end Developer, Fullstack Developer, and a ML and Gen AI enthusiast.</p>
+<p data-importer="text" align="center">Computer Science Student <b> @ University of the Philippines Mindanao.</b><br>I'm a <em><strong>UI/UX Generalist, Front-end Developer, Back-end Developer, Fullstack Developer, and a ML and Gen AI enthusiast.</strong></em></p>
 ###
 
 <picture data-importer="pacman">
@@ -129,7 +129,7 @@
 </div>
 
 ###
-<h5 data-importer="text" align="center">Connect</h5>
+<h5 data-importer="text" align="center">Let's Connect</h5>
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/charles-espiloy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
