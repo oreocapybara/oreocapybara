@@ -2,9 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20I'm%20Charles!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-###
 <p data-importer="text" align="center">Computer Science Student <b> @ University of the Philippines Mindanao.</b><br>I'm a <em><strong>UI/UX Generalist, Front-end Developer, Back-end Developer, Fullstack Developer, and a ML and Gen AI enthusiast.</strong></em></p>
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oreocapybara/oreocapybara/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
