@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-Hi I'm Charles a Computer Science Student at University of the Philippines Mindanao.<br>I'm a UI/UX designer, Fullstack Developer, Front-end Developer, and a ML and Gen AI enthusiast
+Hi I'm Charles a Computer Science Student at University of the Philippines Mindanao.<br>I'm a UI/UX Generalist, Front-end Developer, Back-end Developer, Fullstack Developer, and a ML and Gen AI enthusiast
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oreocapybara/oreocapybara/output/github-contribution-grid-snake-dark.svg">
