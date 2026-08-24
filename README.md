@@ -21,7 +21,7 @@
   <a href="https://github.com/oreocapybara/rock-paper-scissors"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=rock-paper-scissors&description_lines_count=2&show_icons=true&theme=tokyonight&border_color=8186cf&cache_seconds=1800" width="58%" /></a>
   <!-- Row 3: Wide + Narrow -->
   <a href="https://github.com/oreocapybara/be-internship-crud-api"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=be-internship-crud-api&description_lines_count=1&show_icons=true&theme=tokyonight&border_color=7e94e3" width="58%" /></a>
-  <a href="https://github.com/oreocapybara/TOP-repo"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=TOP-repo&description_lines_count=2&show_icons=true&theme=tokyonight&border_color=7aa2f7&cache_seconds=1800" width="38%" /></a>
+  <a href="https://github.com/oreocapybara/worst-login-page"><img src="https://github-stats-extended.vercel.app/api/pin?username=oreocapybara&repo=worst-login-page&description_lines_count=2&show_icons=true&theme=tokyonight&border_color=7aa2f7&cache_seconds=1800" width="38%" /></a>
 </p>
 
 <h1 data-importer="text" align="center">Activity</h1>
