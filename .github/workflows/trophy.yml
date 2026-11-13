@@ -23,7 +23,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
-          token: ${{ secrets.METRICS_TOKEN }}  # <-- Changed to use METRICS_TOKEN
+          token: ${{ github.token }}
           theme: tokyonight
           max-rows: 1
           margin-width: 8
